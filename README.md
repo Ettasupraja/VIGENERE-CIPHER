@@ -107,7 +107,7 @@ void decipher() {
 ```
 
 ## OUTPUT
-![Uploading WhatsApp Image 2025-08-30 at 09.17.49_37fb936a.jpg…]()
+![WhatsApp Image 2025-08-30 at 09 17 49_f275f8ca](https://github.com/user-attachments/assets/b8513548-6d5e-4101-88a7-ad6be4c0a3a6)
 
 ## RESULT
 Thus the code was executed successfully.
